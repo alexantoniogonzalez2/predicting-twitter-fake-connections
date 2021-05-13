@@ -23,6 +23,8 @@ The libraries needed in this project are specified in the Jupyter Notebooks. The
 - data_models/dataset7.cvs contains the most updated dataset.
 - models/neural_netwoks has one of the most relevant models obtained.
 
+### Further Analysis
+A full report detailing our findings can be found [here](https://github.com/alexantoniogonzalez2/predicting-twitter-fake-connections/blob/master/Ego%20Network%20Analysis%20Research%20Report.pdf).
 
 ### Context
 This works is part of the subject COMP90051 Statistical Machine Learning, 2020 Semester 2, The University of Melbourne. Our group was formed by Alex González, Yuqing Xiao and Yee Hean Chuah. Our name in the Kaggle competition was 50 cents.
